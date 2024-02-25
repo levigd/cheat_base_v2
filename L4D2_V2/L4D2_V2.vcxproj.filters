@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{f6d0823c-0323-4595-b9b7-27593af99901}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK">
+      <UniqueIdentifier>{a068129c-7ae3-423a-a54a-9a2210d0537b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cheat">
+      <UniqueIdentifier>{3d245ec2-3187-4cdb-afae-0abf67f676cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cheat\Gui">
+      <UniqueIdentifier>{2a478949-fa8b-4f47-b3fe-b15e9fb75008}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\Vector">
+      <UniqueIdentifier>{b7955a31-dc4a-49bb-baf4-bee255d0c64a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\ClientEntityList">
+      <UniqueIdentifier>{463ba99c-93b7-4d91-8ee1-91f6e63f8c1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\CPlayer">
+      <UniqueIdentifier>{c2bdac70-419e-4392-8a93-fb31d69b01c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\EngineClient">
+      <UniqueIdentifier>{0497ced9-18f0-4b8c-a381-0b84e8e92d85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\CWeapon">
+      <UniqueIdentifier>{6e6e9e94-d083-4aa2-9fb4-2f54da2ceb52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\IBaseClient">
+      <UniqueIdentifier>{537d3bfc-86ee-4f92-b44c-9ac1541d7c25}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DllMain.cpp" />
+    <ClCompile Include="Utils\Utils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Cheat\Cheat.cpp">
+      <Filter>Cheat</Filter>
+    </ClCompile>
+    <ClCompile Include="Cheat\Gui\Gui.cpp">
+      <Filter>Cheat\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\ClientEntityList.cpp">
+      <Filter>SDK\ClientEntityList</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\CPlayer.cpp">
+      <Filter>SDK\CPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\IVEngineClient.cpp">
+      <Filter>SDK\EngineClient</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\Client_class.cpp">
+      <Filter>SDK\IBaseClient</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DllMain.hpp" />
+    <ClInclude Include="Utils\Utils.hpp">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Dma.hpp" />
+    <ClInclude Include="Cheat\Cheat.hpp">
+      <Filter>Cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="Cheat\Gui\Gui.hpp">
+      <Filter>Cheat\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\Vector.hpp">
+      <Filter>SDK\Vector</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\Vector2d.hpp">
+      <Filter>SDK\Vector</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\QAngle.hpp">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\ClientEntityList.hpp">
+      <Filter>SDK\ClientEntityList</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\IClientNetworkable.hpp">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayer.hpp">
+      <Filter>SDK\CPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\IVEngineClient.hpp">
+      <Filter>SDK\EngineClient</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CPlayer.hpp" />
+    <ClInclude Include="SDK\CWeapon.hpp">
+      <Filter>SDK\CWeapon</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\Client_class.hpp">
+      <Filter>SDK\IBaseClient</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

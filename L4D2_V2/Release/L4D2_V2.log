@@ -1,0 +1,71 @@
+﻿  Cheat.cpp
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(154,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(155,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(166,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(167,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(178,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(179,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Gui.cpp
+  DllMain.cpp
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(154,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(155,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(166,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(167,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(178,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(179,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\DllMain.cpp(64,1): warning C4008: DllMain: пропуск атрибута "static"
+  ClientEntityList.cpp
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(154,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(155,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(166,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(167,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(178,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(179,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Client_class.cpp
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(154,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(155,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(166,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(167,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(178,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(179,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  CPlayer.cpp
+  IVEngineClient.cpp
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(154,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(155,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(166,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(167,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(178,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(179,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Utils.cpp
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(154,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(155,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(166,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(167,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(178,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(179,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\SDK\QAngle.hpp(196,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\Utils\Utils.cpp(33,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\Utils\Utils.cpp(27): warning C4715: CUtils::GetHModule: значение возвращается не при всех путях выполнения
+D:\it's_a_base(WinApi)\!source\L4D2_V2\L4D2_V2\Utils\Utils.cpp(112): warning C4715: CUtils::GetInterface: значение возвращается не при всех путях выполнения
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  L4D2_V2.vcxproj -> D:\it's_a_base(WinApi)\!source\L4D2_V2\Release\L4D2_V2.dll
